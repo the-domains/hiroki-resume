@@ -1,0 +1,23 @@
+name: Hiroki-Resume
+favicon: null
+layout_spectrum: 0.9592978365253657
+typography_spectrum: 0.46082603349350393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.28874695650301874
+  lightness: 0.22578027890995145
+  saturation: 0.6279523079283535
+  rhythmicContrast: 0.5827242403756827
+purpose: []
